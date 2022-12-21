@@ -1,0 +1,16 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    height: 50px;
+    align-items: center;
+    background-color: rgb(38, 89, 102);
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.list h2 {
+    background-color: aquamarine;
+}
